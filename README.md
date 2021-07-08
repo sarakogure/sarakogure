@@ -1,4 +1,4 @@
-- I’m @sarakogure.
+- I’m Sara Kogure.
 
 
 <!---
