@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarakogure
+- I’m @sarakogure.
 
 
 <!---
